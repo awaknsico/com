@@ -61,6 +61,9 @@ body {
 
 .masthead-brand {
   margin-bottom: 0;
+  color: rgba(90, 41, 41, 0.5);
+  text-decoration: underline;
+  text-decoration-color: goldenrod;
 }
 
 .nav-masthead .nav-link {
@@ -84,6 +87,10 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.nav-masthead .activ {
+    color: #fff;
+  }
 
 @media (min-width: 48em) {
   .masthead-brand {
@@ -111,5 +118,8 @@ body {
  * Footer
  */
 .mastfoot {
-  color: rgba(255, 255, 255, .5);
+  margin-top: 12px;
+  padding-top: 12px;
+  color: rgba(90, 41, 41, 0.5);
+  background-color: goldenrod;
 }
