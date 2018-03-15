@@ -1,2 +1,2 @@
 # com
-Repository for awaknsico.com
+**Repository for [awakNsico](https://awaknsico.me/)**
